@@ -1,11 +1,11 @@
 {
     "day01": {
-        "tittle": "未定",
-        "progress": "タイトル未定"
+        "tittle": "Qiita CLIでできること、できないこと",
+        "progress": "書いた"
     },
     "day02": {
-        "tittle": "未定",
-        "progress": "タイトル未定"
+        "tittle": "Denoでプログレスバーを表示する",
+        "progress": "書いてる"
     },
     "day03": {
         "tittle": "未定",
@@ -92,11 +92,11 @@
         "progress": "タイトル未定"
     },
     "day24": {
-        "tittle": "未定",
-        "progress": "タイトル未定"
+        "tittle": "一人アドベントカレンダーを支える技術",
+        "progress": "タイトルだけ決まった"
     },
     "day25": {
-        "tittle": "未定",
-        "progress": "タイトル未定"
+        "tittle": "ITエンジニアとしてこの先生きのこるためにかかった呪いの共有",
+        "progress": "タイトルだけ決まった"
     }
 }
