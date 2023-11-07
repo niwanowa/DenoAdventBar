@@ -5,6 +5,7 @@
         "type": "deno",
         "command": "run",
         "args": [
+          "--allow-read",
           "main.ts"
         ],
         "problemMatcher": [
