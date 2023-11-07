@@ -8,7 +8,7 @@ const bars = new MultiProgressBar({
   // clear: true,
   complete: "=",
   incomplete: "-",
-  display: "[:bar] :text :percent :completed/:total",
+  display: "[:bar] :text :percent :time :completed/:total",
 });
 
 let completed1 = 0;
