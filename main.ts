@@ -29,7 +29,6 @@ const progressMapping: ProgressMapping = {
 
 const bars = new MultiProgressBar({
   title,
-  // clear: true,
   complete: "=",
   incomplete: "-",
   display: "[:bar] :text :percent :completed/:total",
@@ -63,6 +62,8 @@ function showProgress(progress: Progress[]) {
     setTimeout(function () {
       showProgress(progress);
     }, 100);
+  }else{
+    bars.end();
   }
 }
 
@@ -72,4 +73,3 @@ function main() {
 }
 
 main();
-console.log("done");
