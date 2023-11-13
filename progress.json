@@ -12,7 +12,7 @@
         "progress": "タイトルだけ決まった"
     },
     "day04": {
-        "tittle": "masterへのpushを禁止するテンプレートを作ろう",
+        "tittle": "master(main)へのpushを禁止するテンプレートを作ろう",
         "progress": "書いた"
     },
     "day05": {
@@ -20,20 +20,20 @@
         "progress": "書いた"
     },
     "day06": {
-        "tittle": "スプレッドシートからURLを取得してQRコードを出力する",
-        "progress": "タイトルだけ決まった"
-    },
-    "day07": {
         "tittle": "未定",
         "progress": "タイトル未定"
+    },
+    "day07": {
+        "tittle": "にわのわさんと振り返るOpenAI_DevDay",
+        "progress": "書いた"
     },
     "day08": {
         "tittle": "未定",
         "progress": "タイトル未定"
     },
     "day09": {
-        "tittle": "未定",
-        "progress": "タイトル未定"
+        "tittle": "にわのわさんと振り返るGitHub_Universe_2023",
+        "progress": "書いた"
     },
     "day10": {
         "tittle": "未定",
